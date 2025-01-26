@@ -1,0 +1,6 @@
+channels = ["conda-forge"]
+
+[deps]
+# Conda package names and versions
+python = ">=3.11"
+optuna = ">=4.2"
