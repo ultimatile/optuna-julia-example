@@ -1,7 +1,7 @@
 # optuna-julia-example
 
 Zenn記事「[PythonCall.jlでJuliaからOptunaを使う](https://zenn.dev/ultimatile/articles/pythoncall-julia-optuna)」のサンプルコードです。
-記事で紹介した方法を用いてJuliからOptunaを使うことができます。
+記事で紹介した方法を用いてJuliaからOptunaを使うことができます。
 
 ## 準備
 
