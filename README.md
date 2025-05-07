@@ -44,7 +44,7 @@ make run-jl
 ### Julia版 (uvを使用しない)
 
 ```shell-session
-uv run julia --project optuna-example.jl
+julia --project optuna-example.jl
 ```
 
 GNU Makeが使用できる場合は以下のように実行することもできます。
